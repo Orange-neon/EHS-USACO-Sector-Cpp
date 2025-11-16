@@ -12,6 +12,7 @@ Given an array of integers, compute the sum of all elements.
 
 ## Example
 **Input:**
+
 5
 
 1 2 3 4 5
