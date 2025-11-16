@@ -20,6 +20,6 @@ Sum: 15
 
 ## How to Test
 1. Open this folder in Codespaces
-2. Compile: `g++ solution.cpp -o solution`
-3. Test: `./solution < test_cases/input_01.txt`
-4. Compare output to `test_cases/output_01.txt`
+2. On your code file, navigate to the button with the play and bug symbol, then click "Run and Debug"
+3. If a notifier appears up top, click the g++ option
+4. See your output (or error) in the terminal
