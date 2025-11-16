@@ -14,8 +14,10 @@ int main() {
     
     // Your solution here
     int sum = 0;
-    for (int num : arr) sum += num;
-    cout << "Sum: " << sum << endl;
+    for (int num : arr) {
+        sum += num;
+    }
+    cout << "Sum: " << sum << '\n';
     
     return 0;
 }
